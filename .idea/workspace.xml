@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25fc6520-5ed5-4a1a-9c18-c6245f155472" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Program2_Sinleton/Singleton.java" afterPath="$PROJECT_DIR$/src/Program2_Sinleton/Singleton.java" />
-    </list>
+    <list default="true" id="25fc6520-5ed5-4a1a-9c18-c6245f155472" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +25,8 @@
       <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Program2_Sinleton/Singleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+            <state relative-caret-position="638">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -262,12 +260,12 @@
       <workItem from="1518418894046" duration="144000" />
       <workItem from="1518426080585" duration="1428000" />
       <workItem from="1518660454322" duration="447000" />
-      <workItem from="1518924889733" duration="459000" />
+      <workItem from="1518924889733" duration="802000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2763000" />
+    <option name="totallyTimeSpent" value="3106000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1089" extended-state="6" />
@@ -408,8 +406,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Program2_Sinleton/Singleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        <state relative-caret-position="638">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
           <folding />
         </state>
       </provider>
