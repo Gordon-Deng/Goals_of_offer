@@ -11,7 +11,6 @@ package Program2_Sinleton;
  * 因此在加锁前多进行一次null检查就可以减少绝大多数的加锁操作，执行效率提高的目的也就达到了
  */
 
-
 public class Singleton {
     private static volatile Singleton singleton = null;
 
