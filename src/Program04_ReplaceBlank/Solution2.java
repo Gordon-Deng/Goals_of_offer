@@ -52,14 +52,4 @@ public class Solution2 {
         return newArray;
     }
 
-    public static void main(String[] args) {
-        int []a = new int[]{1,11,3,4};
-        int []b = new int[]{5,6,7,8};
-        Solution2 solution2 = new Solution2();
-        int []c = solution2.MergeArray(a,b);
-
-        for (int i = 0; i < c.length; i++) {
-            System.out.println(c[i]);
-        }
-    }
 }
