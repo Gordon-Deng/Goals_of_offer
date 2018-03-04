@@ -15,6 +15,7 @@ import java.util.Arrays;
  * @Date :   20:44 2018/3/1
  */
 
+
 public class Solution2 {
     public int[] MergeArray(int []fArray, int []sArray){
         int fLenght = fArray.length;
