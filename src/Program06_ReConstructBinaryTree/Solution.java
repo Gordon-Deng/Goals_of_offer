@@ -1,4 +1,4 @@
-package Program6_reConstructBinaryTree;
+package Program06_ReConstructBinaryTree;
 
 /**
  * @Description :

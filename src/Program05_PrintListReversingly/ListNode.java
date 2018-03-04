@@ -1,4 +1,4 @@
-package Program5_PrintListReversingly;
+package Program05_PrintListReversingly;
 
 /**
  * @Description :输入一个链表，从尾到头打印链表每个节点的值。

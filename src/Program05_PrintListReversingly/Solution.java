@@ -1,4 +1,4 @@
-package Program5_PrintListReversingly;
+package Program05_PrintListReversingly;
 
 import java.util.ArrayList;
 import java.util.Stack;
