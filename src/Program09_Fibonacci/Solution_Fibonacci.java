@@ -12,7 +12,7 @@ package Program09_Fibonacci;
  * @Date :   05:08 2018/3/7
  */
 
-public class Solution {
+public class Solution_Fibonacci {
     public int Fibonacci(int n) {
         int [] inputData = {0,1};
 
