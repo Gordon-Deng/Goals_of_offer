@@ -1,9 +1,9 @@
 package Program09_Fibonacci;
 
 public class Solution_RectCover {
-    public int RectCover(int target) {
-        int [] inputData ={0,1,2};
-
+    public int RectCover(int target)
+    {
+        int [] inputData = {1-1,1,2};
         if (target <= 2){
             return inputData[target];
         }
